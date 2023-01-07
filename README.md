@@ -24,9 +24,6 @@ Here are some ideas to get you started:
   <a href="https://golang.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30"/>
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>
-  </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/>
   </a>
@@ -54,40 +51,39 @@ Here are some ideas to get you started:
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/>
   </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>
+  </a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="30" height="30"/>
   </a>
 </p>
 
-### :trophy: GitHub trophy: 
+### :trophy: GitHub trophy:
 <p text-align="justify">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ebiy0rom0&column=8&theme=nord">
   </a>
 </p>
 
-### :bar_chart: My GitHub stats: 
+### :bar_chart: GitHub stats: 
 <p text-align="justify">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ebiy0rom0&count_private=true&theme=nord&show_icons=true">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/ebiy0rom0/ebiy0rom0/main/profile-summary-card-output/nord_dark/0-profile-details.svg" width="59%" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebiy0rom0&layout=compact&theme=nord&hide=Dockerfile">
+    <img src="https://github-readme-stats.vercel.app/api?username=ebiy0rom0&count_private=true&theme=nord&show_icons=true" width="40%" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/ebiy0rom0/ebiy0rom0/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="33%" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/ebiy0rom0/ebiy0rom0/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="33%" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/ebiy0rom0/ebiy0rom0/main/profile-summary-card-output/nord_dark/4-productive-time.svg" width="33%" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebiy0rom0&layout=compact&theme=nord&hide=Dockerfile" width="40%" />
   </a>
 </p>
-
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://raw.githubusercontent.com/ebiy0rom0/ebiy0rom0/main/profile-summary-card-output/nord_dark/0-profile-details.svg" />
-</a>
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://raw.githubusercontent.com/ebiy0rom0/ebiy0rom0/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" />
-</a>
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://raw.githubusercontent.com/ebiy0rom0/ebiy0rom0/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" />
-</a>
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://raw.githubusercontent.com/ebiy0rom0/ebiy0rom0/main/profile-summary-card-output/nord_dark/3-stats.svg" />
-</a>
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://raw.githubusercontent.com/ebiy0rom0/ebiy0rom0/main/profile-summary-card-output/nord_dark/4-productive-time.svg" />
-</a>
