@@ -59,13 +59,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-### :trophy: GitHub trophy:
-<p text-align="justify">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ebiy0rom0&column=8&theme=nord">
-  </a>
-</p>
-
 ### :bar_chart: GitHub stats: 
 <p text-align="justify">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
@@ -85,5 +78,12 @@ Here are some ideas to get you started:
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebiy0rom0&layout=compact&theme=nord&hide=Dockerfile" width="40%" />
+  </a>
+</p>
+
+### :trophy: GitHub trophy:
+<p text-align="justify">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ebiy0rom0&column=8&theme=nord">
   </a>
 </p>
