@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 ### :bar_chart: My GitHub stats: 
 <p text-align="justify">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ebiy0rom0&count_private=true&theme=nord&show_icons=true" width="41.35%">
+    <img src="https://github-readme-stats.vercel.app/api?username=ebiy0rom0&count_private=true&theme=nord&show_icons=true">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebiy0rom0&layout=compact&theme=nord&hide=Dockerfile">
